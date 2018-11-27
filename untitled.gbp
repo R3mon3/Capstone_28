@@ -1,0 +1,37 @@
+G04 Filename: untitled.gbp*
+G04 FileFunction: Paste,Bot*
+G04 Part: Single*
+G04 ProjectId: untitled,26DC0686AA460F215375FE0B468F6F4B,1*
+G04 GenerationSoftware: MathWorks,MATLAB,9.5.0.944444 (R2018b)*
+G04 CreationDate: 2018-11-24T13:42:32-0500*
+G04 FilePolarity: Positive*
+%FSLAX16Y16*%
+%MOIN*%
+%ADD11C,0.18515*%  G04 Isolation ring for SMA connector*
+%ADD13C,0.0578*%  G04 Center pin of SMA connector*
+%LPD*%
+G36*
+G01*
+X-1314127Y-0119000D02*
+X-1235077D01*
+Y0119000D01*
+X-1314127D01*
+Y-0119000D01*
+D02*
+G37*
+G36*
+X-1127127D02*
+X-1048077D01*
+Y0119000D01*
+X-1127127D01*
+Y-0119000D01*
+D02*
+G37*
+%LPC*%
+D11*
+X-1181102Y0000000D03*
+%LPD*%
+D13*
+D03*
+G04 MD5: bca3963cda58af681e4fb41ea94ad612*
+M02*
