@@ -1,0 +1,20 @@
+Integrating a Designed Antenna into the Comparison Method/Drone Method
+	Comparison Method is designated for a 3 antenna system.  The Parameters of the transmitting antenna (Antenna 1) and the designed antenna 
+  (Antenna 3) are known.  The receiver of the system will be coupled with reference and designed Antenna.  
+  The power received by both antennas, can be derived to find the gain of the Antenna under the test.  
+  Accuracy of the Comparison method is closely related to the directivity of the antenna, given that in order to get the best reception, 
+  and measurements, the antenna of the system must be directed on each other for the best performance.  
+  his tedious testing will consume much time by trail-end-error, which is not ideal for the timeline of this project.
+ 
+	In order to save time, effort, and reduce cost, the system can be integrated using an autonomous drone, and an
+  omni-directional antenna with known parameters.   These components can be integrated into the system, to reduce 
+  the effects of directivity in the radiation pattern of the antenna (for isotropic sources Directivity is often at unity).   
+  This new approach using a drone, with an omni-directional antenna will improve the system in various ways; 
+  
+1.	The Radiation pattern measurements can be stored, and visualized after each simulations, furthermore after many successful simulations the measurements can be averaged to calculate the parameters of the antenna.
+
+2.	Since the Designed antenna has been modelled, simulation results will allow improved understanding of the antenna operation and parameters.
+
+3. 	Autonomists behavior of the system, reduces the complexity, allowing Non-Technical individuals to operate and simulate the system, while improving their understanding.
+
+4. 
